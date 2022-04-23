@@ -8,4 +8,4 @@ This is an example of creating your own csv writer with Node.js.
 
 ## Article
 
-Here is a [link](https://danielzuzevich.com/post/create-a-csv-writer-with-node-js) to my article that describes how I created this.
+Here is a [link](https://danielzuzevich.io/post/create-a-csv-writer-with-node-js) to my article that describes how I created this.
