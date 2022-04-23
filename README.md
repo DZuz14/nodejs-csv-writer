@@ -1,6 +1,6 @@
 # CSV Writer
 
-This is an example of creating your own csv writer with Node.js
+This is an example of creating your own csv writer with Node.js.
 
 ## Running
 
